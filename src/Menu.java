@@ -2,7 +2,6 @@ import java.util.Scanner;
 
 public class Menu {
     public void showMenu(){
-
             System.out.println("KFC Burger 를 이용해주셔서 감사합니다.");
             System.out.println("아래 메뉴판을 참고해서 메뉴를 골라서 입력해주세요.");
             System.out.println("/n");
